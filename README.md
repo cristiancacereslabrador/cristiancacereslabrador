@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristiancacereslabrador
 - 👀 I’m interested in front end web development. 
 - 🌱 I’m currently learning React JS. 
-- 💞️ I’m looking to collaborate on any web development project with react or Python. 
+- 💞️ I’m looking to collaborate on any web development project with JavaScript or ReactJS. 
 - 📫 How to reach me: cristiancacereslabrador@gmail.com
      Whatsapp: +51-980675172
 
